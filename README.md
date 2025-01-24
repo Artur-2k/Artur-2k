@@ -28,9 +28,8 @@
   
 ## About me
   
-- 🩸 Former military healthcare specialist
-- 🎓 Studying at 42Porto, focusing on C and C++
-- 🖥️ Learning new tools like bash scripting, Selenium, and more in free time
+- 🎓 Studying at 42Porto which focus on C and C++
+- 🖥️ Learning new tools like bash scripting, Selenium, and more on my free time
 - 🛡️ Growing interest in cybersecurity
 </p>
 
