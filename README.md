@@ -28,9 +28,10 @@
   
 ## About me
   
-- 🎓 Studying at 42Porto which focus on C and C++
+- 🎓 Studying at 42Porto which focuses on C and C++
 - 🖥️ Learning new tools like bash scripting, Selenium, and more on my free time
 - 🛡️ Growing interest in cybersecurity
+- 📚 I love cats and philosophy
 </p>
 
 ###
