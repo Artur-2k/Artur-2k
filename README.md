@@ -79,7 +79,7 @@
 
 ###
 
-<h2 align="left">Project managment</h2>
+<h2 align="left">Managment tools</h2>
 
 ###
 
